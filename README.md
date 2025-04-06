@@ -1,4 +1,4 @@
-# goydman_2025
+# nuachnichki
 
 ## **1. Клонирование репозитория**  
 ### **Windows / Linux**  
